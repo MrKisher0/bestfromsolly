@@ -1,3 +1,6 @@
+import net.minecraft.nbt.NBTTagCompound;
+import net.minecraft.tileentity.TileEntity;
+
 public class TileColorGlower extends TileEntity {
 
     private int color = 0xFFFF00; // RRGGBB
